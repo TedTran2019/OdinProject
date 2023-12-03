@@ -25,3 +25,10 @@
 - Snapshots not differences
 - Like a file system
 - Working, Staging, Local repo, Remote repo
+- [Good commit message](https://cbea.ms/git-commit/)
+
+## HTML/CSS
+- Basic info about stuff like semantic HTML and tags
+- opening links in a new tab (target _blank and rel noopener noreferrer)
+- absolute vs relative links
+- 4 main image formats and what they're for
