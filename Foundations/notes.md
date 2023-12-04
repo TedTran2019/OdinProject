@@ -37,3 +37,6 @@
 - Grouping, chaining, combining
 - Generic font family as fallback
 - Including height/width for image to prevent "shifting" if the image takes longer to load than the rest of the page
+- CSS cascade and specificity rules
+- When to use flex vs grid
+- Firefox's grid and flex inspector
