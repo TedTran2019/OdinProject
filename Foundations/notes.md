@@ -32,3 +32,8 @@
 - opening links in a new tab (target _blank and rel noopener noreferrer)
 - absolute vs relative links
 - 4 main image formats and what they're for
+- CSS: Selector-property-value
+- Selectors: universal, type, class, ID
+- Grouping, chaining, combining
+- Generic font family as fallback
+- Including height/width for image to prevent "shifting" if the image takes longer to load than the rest of the page
