@@ -73,4 +73,8 @@
 - When comparing different types, JS converts values into numbers
   - Think about how this affects values that can be undefined/null/NaN and when to use == or ===, or just check things separately
 - Logical operators work same as Ruby (short-circuit, boolean conversion, etc)
-- Nullish coalescing operator ?? 
+- Nullish coalescing operator ??
+- In Devtools, going to an incognito window with no extensions can make debugging easier
+- Anonymous, arrow functions and various JS scoping issues
+  - Arrow: implicit returns without curly brackets
+- var is function scope while let/const are block scope
