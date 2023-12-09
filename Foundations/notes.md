@@ -83,3 +83,4 @@
   - In Ruby, enumerables use blocks (which are tied to the outer method) and yield. If you return from a block, it returns from the outer method. 
 - JS has break w/ labels
   - To do the same in Ruby, would have to use throw/catch
+- Basic DOM manipulation
